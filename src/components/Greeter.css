@@ -1,0 +1,8 @@
+.Greeter {
+    color: whitesmoke;
+    background-color: black
+}
+
+.Greeter:hover {
+    transform: rotate(0.5turn)
+}
